@@ -1,12 +1,16 @@
 # Alex Miller
 
 <div class="contact-info">
-  <span>Grand Rapids, MI</span> |
-  <span>(616) 843-4054</span> |
-  <a href="mailto:amiller192003@gmail.com">amiller192003@gmail.com</a> |
-  <a href="https://www.linkedin.com/in/alex-jacob-miller">LinkedIn</a> |
-  <a href="https://github.com/alex-j-miller">GitHub</a> |
-  <a href="https://alex-j-miller.github.io">Portfolio</a>
+  <div class="contact-line">
+    <span> Grand Rapids, MI </span> • 
+    <span>(616) 843-4054</span> • 
+    <a href="mailto:amiller192003@gmail.com">amiller192003@gmail.com</a>
+  </div>
+  <div class="contact-line">
+    <a href="https://www.linkedin.com/in/alex-jacob-miller">linkedin.com/in/alex-jacob-miller</a> • 
+    <a href="https://github.com/alex-j-miller">github.com/alex-j-miller</a> • 
+    <a href="https://alex-j-miller.github.io">alex-j-miller.github.io</a>
+  </div>
 </div>
 
 ---
@@ -30,7 +34,7 @@ Minor in Data Science
 
 ## Work History
 
-### Application Development Intern <span class="date">| 2024 – Present</span>
+### Application Development Intern | <span class="date">2024 – Present</span>
 
 **Ottawa Intermediate School District** – Remote
 
@@ -43,7 +47,7 @@ Minor in Data Science
 </ul>
 <p class="tech">React, JavaScript, TypeScript, HTML, CSS, C#, SQL, Jest, Cypress.io, Git, Docker</p>
 
-### Summer Field Technician <span class="date">| 2021 – 2024</span>
+### Summer Field Technician | <span class="date">2021 – 2024</span>
 
 **Ottawa Intermediate School District** – Holland, MI
 
